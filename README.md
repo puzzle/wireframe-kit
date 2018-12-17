@@ -6,7 +6,7 @@ A free and open source wireframing kit made for draw.io
 
 There are two ways to use the PWK with draw.io:
 
-### 1: User the PWK libraries (recommended)
+### 1: Use the PWK libraries (recommended)
 * Download the PWK libraries from our repo (or click on the link in the «Puzzle-Wireframe-Kit.xml»)
 * Open draw.io and import the libraries via: file > Open Library from …
 * You now have our libraries available in your draw.io in the panel on the left. 
