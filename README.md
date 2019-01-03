@@ -43,7 +43,14 @@ There are various ways to use the PWK with draw.io:
 
 *Make sure to clear your default style before using the PWK (Ctrl + Shift +R)*
 
-## Licence
+# Puzzle Brand Libraries
+
+We also have Puzzle Brand libraries (logos, icons, colors, infographics) for draw.io. 
+* Simply click on this link: https://bit.ly/2CNomI0
+* Clicking on it will open and install the PWK libraries in draw.io
+* Make sure to clear your default style in draw.io before using the PWK (Ctrl + Shift +R)
+
+# Licence
 We published the PWK with a CC-licence (Attribution-ShareAlike 4.0 International, CC BY-SA 4.0). You are free to use any of the shapes/elements in the PWK for commercial use.
 
 But if you change the PWK itself, you have to publish your version of the kit with the same licence again and make it open source.
