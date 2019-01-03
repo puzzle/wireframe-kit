@@ -50,6 +50,8 @@ We also have Puzzle Brand libraries (logos, icons, colors, infographics) for dra
 * Clicking on it will open and install the PWK libraries in draw.io
 * Make sure to clear your default style in draw.io before using the PWK (Ctrl + Shift +R)
 
+Our infographics-library is based on the one from draw.io: https://t.co/FgbJUR3EIx
+
 # Licence
 We published the PWK with a CC-licence (Attribution-ShareAlike 4.0 International, CC BY-SA 4.0). You are free to use any of the shapes/elements in the PWK for commercial use.
 
